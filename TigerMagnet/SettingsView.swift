@@ -1,8 +1,8 @@
 //
 //  SettingsView.swift
-//  TigerFoot
+//  TigerMagnet
 //
-//  Created by Nicolae Chivriga on 24/11/2024.
+//  Created by Nicolae Chivriga on 25/11/2024.
 //
 
 import SwiftUI
@@ -31,7 +31,7 @@ struct SettingsView: View {
 
               
                 Button {
-                    if let url = URL(string: "mailto:jjwacgsehxochcf933866@gmail.com") {
+                    if let url = URL(string: "mailto:jrgastontgkyn42467010@gmail.com") {
                         if UIApplication.shared.canOpenURL(url) {
                             UIApplication.shared.open(url)
                         }

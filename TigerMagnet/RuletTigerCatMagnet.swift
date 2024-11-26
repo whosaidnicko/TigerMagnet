@@ -1,8 +1,8 @@
 //
 //  RuleTigerView.swift
-//  TigerFoot
+//  TigerMagnet
 //
-//  Created by Nicolae Chivriga on 24/11/2024.
+//  Created by Nicolae Chivriga on 25/11/2024.
 //
 
 
